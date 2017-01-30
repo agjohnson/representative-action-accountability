@@ -17,7 +17,7 @@ master_doc = 'index'
 pygments_style = 'sphinx'
 todo_include_todos = False
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
 html_static_path = ['_static']
 htmlhelp_basename = '{0}-doc'.format(slug)
 
